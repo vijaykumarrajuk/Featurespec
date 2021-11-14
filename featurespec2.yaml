@@ -1,0 +1,15 @@
+- name: age
+  description: Age
+  schema: int
+- name: Gender
+  description: Gender
+  schema: string
+- name: Popular vote
+  description: Total votes
+  schema: int
+- name: electoral votes
+  description: Total electoral votes
+  schema: int
+- name: winner
+  description: is he the winner
+  schema: boolean
